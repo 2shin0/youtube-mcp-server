@@ -1,0 +1,6 @@
+streamlit
+google-genai
+youtube-transcript-api
+fastmcp
+
+requests
