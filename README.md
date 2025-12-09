@@ -4,6 +4,8 @@
 
 Claude, ChatGPT 등의 LLM을 YouTube API와 연동하여 **자막 추출, 영상 검색, 채널 분석, 댓글 수집** 등의 작업을 수행할 수 있도록 4가지 핵심 도구(Tool)를 제공합니다.
 
+프론트엔드/MCP 클라이언트는 [이 레포지토리](https://github.com/2shin0/youtube-chat) 를 참고해 주세요.
+
 ## 주요 기능
 
 이 MCP 서버는 다음과 같은 기능을 제공합니다.
@@ -77,6 +79,8 @@ Claude, ChatGPT 등의 LLM을 YouTube API와 연동하여 **자막 추출, 영�
 This repository is a YouTube data collection MCP (Model Context Protocol) server built on **FastMCP**.
 
 It provides 4 core tools that allow LLMs like Claude and ChatGPT to interact with the YouTube API for tasks such as **transcript extraction, video search, channel analysis, and comment collection**.
+
+Please refer to [this repository](https://github.com/2shin0/youtube-chat) for the frontent/MCP Client.
 
 ## Key Features
 
